@@ -7,3 +7,5 @@ name = 'this is my name'
 print(name)
 
 print(name)
+
+print(name)
